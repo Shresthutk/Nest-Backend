@@ -57,7 +57,7 @@ Delete -> localhost:3000/blogs/<id>
 ## Deployment
 
 This project is deployed on https://nestbackend.onrender.com .
-Replace localhost with this link to run the project directly on server instead of local machine.
+Replace 'localhost:3000' with this link to run the project directly on server instead of local machine.
 
 
 <p align="center"> Made with 💻 by Utkarsh 🗿</p>
